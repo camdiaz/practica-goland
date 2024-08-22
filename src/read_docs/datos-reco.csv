@@ -1,0 +1,11 @@
+ownerId,ownerType,material,quantity,collection
+1,business,carton,1234,finished
+2,user,acu,67,pending
+3,user,acu,86,falled
+4,user,acu,3,cancelled
+5,business,plastico,976,aproved
+6,business,plastico,246,finished
+7,user,acu,428,pending
+8,user,carton,2,falled
+9,business,acu,89,cancelled
+10,business,carton,3,aproved
